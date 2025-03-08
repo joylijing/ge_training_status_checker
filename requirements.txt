@@ -3,3 +3,4 @@ pandas
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.12.2
 openpyxl==3.1.0
+gunicorn==23.0.0
